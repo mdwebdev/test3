@@ -14,7 +14,11 @@
 
 		echo $_COOKIE['login'];
 
+
+
 	?>
+
+	<div class="test"></div>
 	
 </body>
 </html>
