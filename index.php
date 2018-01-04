@@ -19,6 +19,8 @@
 	?>
 
 	<div class="test"></div>
+
+	<div class="test2"></div>
 	
 </body>
 </html>
